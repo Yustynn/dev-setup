@@ -1,3 +1,7 @@
+# Vim stuffs
+**/*.swp
+**/*.swo
+
 # IntelliJ IDEA IDE
 .idea
 
